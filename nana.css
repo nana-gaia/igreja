@@ -1,14 +1,14 @@
 h1 {
     color:rgb(245, 0, 0);
-
     align-items: center;
+    padding: 150px 50px;
 }
 .cimad{
     display: flex;
 }
-
-
 body{
     background-color: black;
 }
-
+img{
+    width: 150px;
+}
